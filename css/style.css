@@ -1,0 +1,35 @@
+
+#headerTable{
+    width: 100%;
+}
+.logo{
+    width: 80px;
+}
+nav{
+    padding-right: 16px;
+}
+a {
+margin-right: 16px;
+text-decoration: none;
+color: black;
+}
+video{
+    width:100%;
+    
+}
+#mainTable{
+    width: 1;
+}
+#userImage{
+    width: 500px;
+}
+.bioBox{
+    width: 70%;
+    text-align: left;
+}
+.btn{
+    padding: 16px;
+    border-radius: 10px;
+    font-size: large;
+
+}

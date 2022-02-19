@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>codetribe bootcamp website></title>
+    </head>
+
+          
+    
+<body >
+        
+       <header>
+         <nav>
+            <a href="#">Home</a>
+
+            <a href="about.html">About me</a>
+            
+            <a href="contact.html">Contact us</a>
+         </nav>
+      </header>
+
+      <main>
+       <h1>Home page</h1>
+
+       <iframe width="853" height="480" src="https://www.youtube.com/embed/0Z42N2_-0gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       
+
+</body>
+</html>
+
+</body>
+</html>

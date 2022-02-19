@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&display=swap');
+  
+  body{
+      background:url(../assets/images/flower.jpeg.jfif);
+  }
+  nav{
+      background-color: darkmagenta;
+      padding: 50px;
+      margin: 10px;
+  }
+  a{
+      color: darkgrey;
+      font-family:'Roboto Serif', sans-serif; ;
+  }
+  
+  
+.title {
+color:cyan;
+background-color: red;
+text-align: center;
+}
+.heading{
+color:00ff00;
+}
+.subheading{
+color:seashell;
+}
+.image{
+    width:800px;
+    height:auto;
+    border:10px solid black;
+    
+}

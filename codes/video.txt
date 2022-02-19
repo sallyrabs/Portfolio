@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>codetribe bootcamp website></title>
+    </head>
+
+          
+    
+<body >
+        
+       <header>
+         <nav>
+            <a href="#">Home</a>
+
+            <a href="about.html">About me</a>
+            
+            <a href="contact.html">Contact us</a>
+         </nav>
+      </header>
+
+      <main>
+       <h1>Home page</h1>
+       <video width="500px" poster="assets/images/thumbnail.jfif" controls src="./assets/videos/VB 2008 - Login Form with Progressbar.wmv.mp4"></video>
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       
+
+</body>
+</html>
+
+</body>
+</html>

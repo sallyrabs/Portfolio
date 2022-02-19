@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>codetribe bootcamp website></title>
+    </head>
+
+          
+    
+<body >
+        
+       <header>
+         <nav>
+            <a href="#">Home</a>
+
+            <a href="about.html">About me</a>
+            
+            <a href="contact.html">Contact us</a>
+         </nav>
+      </header>
+
+      <main>
+       <h1>Home page</h1>
+
+       <CAption>Shopping List</CAption>
+
+       <ul>
+           <li>
+               BOOKS,
+               PENCIL,
+               PENS
+           </li>
+           <LI>computers</LI>
+       </ul>
+
+       <ol>
+          <li>bread </li>
+          <li>milk</li>
+       </ol>
+
+       <dd>
+        <dt>bananas</dt>
+        <dd>green bananas</dd>   
+       
+       </dt> pear</dt>
+       <dd>green pear</dd>
+
+       
+
+       </dl>
+
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       
+
+</body>
+</html>
+
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Codetribe Bootcamp Website></title>
+    </head>
+
+    
+       
+    
+<body style="background-color:red;">
+        <!--This is the different header-->     
+       <h1 style="color:blue; margin:50px">Welcome to codeTribe bootcamp 2022</h1>
+       <h2>This is heading 1</h2>
+       <h3>This is heading 2</h3>
+       <h4>This is heading 3</h4>
+       <h5>This is heading 1</h5>
+       <h6>This is heading 2</h6>
+
+
+       <header>
+         <nav>
+            <a href="https://www.w3schools.com">Visit w3schools website </a>
+         </nav>
+      </header>
+
+      <main>
+
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       <p>My first paragraph.</p>
+       
+       <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+       <h2>The src Attribute</h2>
+        <p>HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute:</p>
+
+       <img src="img_girl.jpg" width="500" height="600">
+
+</body>
+</html>
+
+</body>
+</html>
+
+
+///////////////////////working////////////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>codetribe bootcamp website></title>
+    </head>
+
+          
+    
+<body >
+        
+       <header>
+         <nav>
+            <a href="#"></a>home</a>
+            <a href="about "></a>about me</a>
+            <a href="contact "></a>contact us</a>
+         </nav>
+      </header>
+
+      <main>
+
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       
+
+</body>
+</html>
+
+</body>
+</html>
+
+
+///////////////////////////
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>codetribe bootcamp website></title>
+    </head>
+
+          
+    
+<body >
+        
+       <header>
+         <nav>
+            <a href="index.html">Home</a>
+
+            <a href="about.html">About me</a>
+            
+            <a href="contact.html">Contact us</a>
+         </nav>
+      </header>
+
+      <main>
+
+     </main>
+
+    <footer>
+
+    </footer>
+
+
+
+       
+
+</body>
+</html>
+
+</body>
+</html>
